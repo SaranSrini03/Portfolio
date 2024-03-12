@@ -20,7 +20,7 @@ const introdata = {
 
 const dataabout = {
     title: "About my self",
-    aboutme: " Myself Saran Srinivasan V from Tamilnadu ,India. Presuing Computer Science in my Sopomora Year",
+    aboutme: " Myself Saran Srinivasan V from Tamilnadu ,India. Presuing Computer Science in my Sophomora Year",
 };
 const worktimeline = [{
         jobtitle: "Will be Updated",
