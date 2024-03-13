@@ -15,7 +15,7 @@ const introdata = {
         sixth: "knows Music Composing",
     },
     description: "I'm currently in my second year studying Computer Science.",
-    your_img_url: "https://images.unsplash.com/photo-1497493292307-31c376b6e479?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    your_img_url: "https://images.unsplash.com/photo-1541336032412-2048a678540d?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
