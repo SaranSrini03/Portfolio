@@ -10,7 +10,7 @@ const introdata = {
         first: "knows Website Development",
         second: "knows Game Design",
         third: "knows Block-Chain",
-        fouth: "knowsPhotography",
+        fouth: "knows Photography",
         fifth: "knows Video Editing",
         sixth: "knows Music Composing",
     },
