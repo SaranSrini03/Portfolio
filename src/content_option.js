@@ -7,12 +7,12 @@ const meta = {
 const introdata = {
     title: "I’m Saran Srini",
     animated: {
-        first: "Website Development",
-        second: "Game Design",
-        third: "Block-Chain",
-        fouth: "Photography",
-        fifth: "Video Editing",
-        sixth: "Music Composing",
+        first: "knows Website Development",
+        second: "knows Game Design",
+        third: "knows Block-Chain",
+        fouth: "knowsPhotography",
+        fifth: "knows Video Editing",
+        sixth: "knows Music Composing",
     },
     description: "pursuing Computer Science in my sophomore year",
     your_img_url: "https://images.unsplash.com/photo-1595378376639-2ff85917c511?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
