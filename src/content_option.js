@@ -15,7 +15,7 @@ const introdata = {
         sixth: "Music Composing",
     },
     description: "pursuing Computer Science in my sophomore year",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://images.unsplash.com/photo-1595378376639-2ff85917c511?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
