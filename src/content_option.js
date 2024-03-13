@@ -14,13 +14,13 @@ const introdata = {
         fifth: "knows Video Editing",
         sixth: "knows Music Composing",
     },
-    description: "pursuing Computer Science in my sophomore year",
+    description: "I'm currently in my second year studying Computer Science.",
     your_img_url: "https://images.unsplash.com/photo-1595378376639-2ff85917c511?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
     title: "About my self",
-    aboutme: " Myself Saran Srinivasan V from Tamilnadu ,India. Presuing Computer Science in my Sophomora Year",
+    aboutme: "I am Saran Srinivasan V from Tamil Nadu, India, currently in my sophomore year pursuing Computer Science.",
 };
 const worktimeline = [{
         jobtitle: "Will be Updated",
@@ -141,7 +141,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "saransrini003@gmail.com", 
     YOUR_FONE: "8072872929",
-    description: "Feel free to contact or join with us ",
+    description: "Please don't hesitate to reach out and connect with us through alternative means",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -151,7 +151,7 @@ const socialprofils = {
     github: "https://github.com/SaranSrini03",
     facebook: "https://www.instagram.com/saransrini_/",
     linkedin: "https://www.linkedin.com/in/saran-srini-3993a7251/",
-    twitter: "https://twitter.com",
+    twitter: "https://twitter.com/NearCult",
 };
 export {
     meta,
