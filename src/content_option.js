@@ -78,7 +78,7 @@ const services = [{
 const dataportfolio = [{
         img: "https://www.ilovepdf.com/storage/blog/14-1623851533-Convert-PDF-to-JPG.png",
         description: "It's a simple pdf to jpg converter from Finter",
-        link: "finter.vercel.app",
+        link: "https://finter.vercel.app/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
