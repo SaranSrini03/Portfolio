@@ -45,7 +45,7 @@ const skills = [{
     },
     {
         name: "Django",
-        value: 50,
+        value: 40,
     },
     {
         name: "Javascript",
